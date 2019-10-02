@@ -1,0 +1,21 @@
+#heading{
+	color:pink;
+	background-image: url(main_bg.jpg);
+
+}
+body{
+	background-image: url(main_bg.jpg)
+
+}
+#options{
+	color: pink;
+	list-style: none;
+}
+#question{
+	color: pink;
+	margin-bottom: 60px;
+}
+.opt{
+	margin-bottom: 20px;
+}
+
